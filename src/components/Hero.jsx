@@ -16,7 +16,7 @@ const Hero = () => {
             Elevate Your Perspective
           </h1>
           <p className='max-w-[600px] drop-shadow-2xl py-2 text-xl'>
-           Changing the way you look at things.
+            Changing the way you look at things.
           </p>
           <button className='bg-white text-black '>Join Now</button>
         </div>

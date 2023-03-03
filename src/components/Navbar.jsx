@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import {TiThMenuOutline} from 'react-icons/ti'
 
+
 const Navbar = () => {
     const [nav, setNav] = useState(false);
     const handleNav = () => {
